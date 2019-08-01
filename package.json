@@ -1,0 +1,16 @@
+{
+  "name": "CD",
+  "version": "1.0.0",
+  "description": "Modular deployment server",
+  "main": "index.js",
+  "author": "Kevin Midboe",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
